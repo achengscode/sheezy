@@ -7,11 +7,11 @@ Add Kanye West quotes to your shell!
 
 2. Clone this repo into the following directory:
    ```
-     git clone git@github.com:achengscode/kanye-sh.git ~/.kanye-sh
+     git clone git@github.com:achengscode/sheezy.git ~/.sheezy
    ```
 3. Add the following into your `bash_profile.sh` (or `~/.zshrc` for ZSH) at the very end of the file
    ```
-   source ~/.kanye-sh/kanye-quotes.sh
+   source ~/.sheezy/kanye-quotes.sh
    ```
 4. Enjoy your new quotes from Kanye everytime you open up a shell!
 
