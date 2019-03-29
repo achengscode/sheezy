@@ -1,4 +1,4 @@
-# Kanye-SH
+# Sheezy
 
 Add Kanye West quotes to your shell!
 
@@ -17,5 +17,5 @@ Add Kanye West quotes to your shell!
 
 ## Thanks to:
 1. [Kanye.rest](https://kanye.rest/) by [ajzbc](https://ajzbc.com/)
-   
+2. @alexzherdev for the alternate name!
 `
